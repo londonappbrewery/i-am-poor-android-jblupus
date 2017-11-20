@@ -12,7 +12,8 @@
 
 
     <TextView
-        android:text="@string/app_name"
+        android:layout_marginTop="40dp"
+        android:text="@string/txt_title"
         android:textSize="40sp"
         android:layout_centerHorizontal="true"
         android:textColor="#424242"
